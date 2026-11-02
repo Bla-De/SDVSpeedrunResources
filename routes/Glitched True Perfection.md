@@ -108,19 +108,19 @@ This leaves your inventory as following:
 
 Use the Island Obelisk to warp to the Island. Run up to the Volcano, where oodles of Magma Sprites will be available for killing.
 
-Once 150 have been killed, Mountain Warp and run to the Mines. Use the elevator to go to floor 45, and ladder down to an infested floor 49 and eradicate Dust Sprites (the first eradication message will be Grubs, so ignore that). Once Dust Sprites have been eradicated, take the elevator to floor 75, and eradicate skeletons. Return Scepter once eradicated.
+Once 150 have been killed, Mountain Warp and run to the Mines. Use the elevator to go to floor 45, and ladder down to an infested floor 49 and eradicate Dust Sprites (the first eradication message will be Grubs, so ignore that). Return Scepter once eradicated.
 
 ### Read 17 (RNG Manip)
 
-Read the mail, which replaces your return scepter with a tent kti. This mail read ensures the crab pots (which will process overnight) will have good results. Go to sleep.
+Read the mail, which replaces your return scepter with a tent kit. This mail read ensures the crab pots (which will process overnight) will have good results. Go to sleep.
 
 ## Day 3
 ### Read 18 (Cave Jelly + Void Spirits)
 Read the mail, and use the Mountain Obelisk to go to the mountain. Use the elevator to go to floor 20, and catch the tutorial fish (allowing it into inventory) along with the White Algae and the Cave Jelly. If you get the Green Algae, take note.
 
-Take the elevator down to floor 95, and loop 96 until Void Spirits are eradicated. Warp home.
-### Read 19 (River Jelly + Duggies + Fish Pond)
-Read the mail, and use the Mountain Obelisk. Catch a River Jelly on the way to the mines, and if you haven't caught a Green Algae yet fish for it on floor 20. Loop floor 23 until both Rock Crabs and Duggies are eradicated. Then, go to Robin and buy a Fish Pond. Warp home, and sleep.
+Take the elevator down to floor 80, and loop 83 until Void Spirits are eradicated. Warp home.
+### Read 19 (River Jelly + Duggies + Rock Crabs + Skeletons + Fish Pond)
+Read the mail, and use the Mountain Obelisk. Catch a River Jelly on the way to the mines, and if you haven't caught a Green Algae yet fish for it on floor 20. Loop floor 6 until both Rock Crabs and Duggies are eradicated. If Rock Crabs are done before Duggies, finish off Duggies on floor 13. Then, loop floor 72 for Skeletons.  Once all monsters are eradicated, go to Robin and buy a Fish Pond. Warp home, and sleep.
 
 ## Day 4 -> 11
 Sleep
