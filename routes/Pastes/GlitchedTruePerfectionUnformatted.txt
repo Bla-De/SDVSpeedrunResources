@@ -1148,8 +1148,8 @@ MAILREAD values:
 12, 13, 14, 15 = Cooking
 16 = create combat inventory + dust spirites (f49)
 17 = fix combat inventory + crab pot steps
-18 = duggies (23)
-19 = rock crabs and void spirites (96)
+18 = void spirits (83)
+19 = duggies/rock crabs and skeletons (6/13/72)
 
 20 = Fish inventory 1
 21 = Fish inventory 2
@@ -3233,8 +3233,8 @@ Legacy?%%
 %action IncrementStat stepsTaken -2147483647%%
 %action If player_stat Any MAILREAD 16 16 ## IncrementStat DaysPlayed 70%%//Dust Sprites
 %action If player_stat Any MAILREAD 17 17 ## IncrementStat DaysPlayed 599%%//Crab Pots
-%action If player_stat Any MAILREAD 18 18 ## IncrementStat DaysPlayed 8%%//Void Spirits
-%action If player_stat Any MAILREAD 19 19 ## IncrementStat DaysPlayed 17%%//Duggies
+%action If player_stat Any MAILREAD 18 18 ## IncrementStat DaysPlayed 28286%%//Void Spirits
+%action If player_stat Any MAILREAD 19 19 ## IncrementStat DaysPlayed 17815%%//Duggies
 %action If player_stat Any MAILREAD 24 24 ## IncrementStat DaysPlayed -2147483647%%//Rng manip in steps
 %action If player_stat Any MAILREAD 25 25 ## IncrementStat DaysPlayed 6674%%// Dinos on floor 7, 3/4 statues for 2 more monsters.
 %action If player_stat Any MAILREAD 26 26 ## IncrementStat DaysPlayed 13408%%//Dinos on floor 7, 4/3 statues for 2 more monsters.
