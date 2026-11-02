@@ -8264,12 +8264,14 @@ increMentstat day${
 if player_stat Any 
 ! 18 18 ## 
 increMentstat day${
-¦}$splayed 8%%
+¦}$splayed 
+28286%%
 %action
 if player_stat Any 
 ! 19 19 ## 
 increMentstat day${
-¦}$splayed 17%%
+¦}$splayed 
+17815%%
 %action
 if player_stat Any 
 ! 24 24 ## 
