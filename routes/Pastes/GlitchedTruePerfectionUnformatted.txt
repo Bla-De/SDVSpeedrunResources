@@ -3156,8 +3156,8 @@ In this run, the following specific controls are performed:
 //Delayed luck buff to avoid messing up volcano floors
 %action AddBuff statue_of_blessings_1 -2%%
 
-//Unlock every elevator floor (we don't need/want to go below 95)
-%action If LOCATION_NAME UndergroundMine95 . ## Null%%
+//Unlock every elevator floor
+%action If LOCATION_NAME UndergroundMine120 . ## Null%%
 
 //Ensure that you're on a good rng-level for jellies
 %action IncrementStat DaysPlayed -2147483647%%
