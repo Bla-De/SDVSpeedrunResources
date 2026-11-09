@@ -1837,7 +1837,7 @@ Markeventseen all
 Markeventseen all
  404798#$action 
 Markeventseen all
- 529952#$action 
+ 5292#$action 
 Markeventseen all
  191393#$action 
 Markeventseen all
@@ -1890,7 +1890,7 @@ Markeventseen all
 Markeventseen all
  371652#$action 
 Markeventseen all
- 8959199#$action 
+ 89199#$action 
 Markeventseen all
  44#$action 
 Markeventseen all
@@ -1910,7 +1910,7 @@ Markeventseen all
 Markeventseen all
  4081148#$action 
 Markeventseen all
- 9581348#$action 
+ 81348#$action 
 Markeventseen all
  14#$action 
 Markeventseen all
@@ -2465,7 +2465,7 @@ reMoveiteM 708%%
 %action
 reMoveiteM 734%%
 %action
-reMoveiteM 795%%
+reMoveiteM 7%%
 %action
 reMoveiteM 796%%
 %action
@@ -2923,7 +2923,7 @@ if days_played 4 4
  ## additeM 593%%
 %action
 if days_played 4 4 
- ## additeM 595%%
+ ## additeM 5%%
 %action
 if days_played 5 5 
  ## additeM 597%%
@@ -3375,7 +3375,7 @@ if days_played 9 9
  ## additeM 432%%
 %action
 if days_played 9 9 
- ## additeM 495 2
+ ## additeM 4 2
 %%%action
 if days_played 9 9 
  ## additeM 388 35
@@ -3495,7 +3495,7 @@ if days_played 11 11
  ## additeM 122%%
 %action
 if days_played 11 11 
- ## additeM 595%%
+ ## additeM 5%%
 %action
 if days_played 11 11 
  ## additeM 336 11
@@ -3747,7 +3747,7 @@ if days_played 13 13
  ## additeM 247 2
 %%%action
 if days_played 13 13 
- ## additeM 195%%
+ ## additeM 1%%
 %action
 if days_played 13 13 
  ## additeM 24%%
@@ -3816,7 +3816,7 @@ if days_played 14 14
  ## additeM 372%%
 %action
 if days_played 14 14 
- ## additeM 395 3
+ ## additeM 3 3
 %%%action
 if days_played 14 14 
  ## additeM 404%%
@@ -4378,7 +4378,7 @@ if days_played 21 21
  ## additeM 775%%
 %action
 if days_played 21 21 
- ## additeM 795%%
+ ## additeM 7%%
 %action
 if days_played 21 21 
  ## additeM 796%%
@@ -5055,7 +5055,7 @@ OOL 0.739,
 OOL 0.241 ## null 
  ## 
 increMentstat day${
-¦}$splayed -16395
+¦}$splayed -163
 %%%action
 increMentstat day${
 ¦}$splayed 8192%%
@@ -6740,7 +6740,7 @@ if player_stat Any
 i 5 5 ## 
 increMentstat day${
 ¦}$splayed 
-101895396%%
+1018396%%
 %action
 if player_stat Any 
 i 6 6 ## 
@@ -8032,7 +8032,7 @@ addbuff statue_of${
 %%%action
 if location_naMe u${
 ¦}$ndergroundMine
-95 . ## Null%%
+120 . ## Null%%
 %action
 increMentstat day${
 ¦}$splayed 
